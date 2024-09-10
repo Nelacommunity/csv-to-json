@@ -6,6 +6,13 @@ First, run the development server:
 
 ```bash
 npm install
+#or 
+yarn install
+#or
+pnpm install
+#or
+bun install
+
 then
 npm run dev
 # or
