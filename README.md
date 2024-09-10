@@ -46,3 +46,8 @@ project-root/
 
 
 
+the example of output data 
+{
+  "name": "John Doe",
+  "age": 25
+}
